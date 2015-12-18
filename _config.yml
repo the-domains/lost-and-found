@@ -1,28 +1,40 @@
-name: Lost and Found
-favicon: null
-layout_spectrum: 0.5859697808045894
-typography_spectrum: 0.5159065544139594
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.19783336552791297
-  lightness: 0.0950961911585182
-  saturation: 0.6854182863608003
-  rhythmicContrast: 0.5151446824893355
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.3595745
+  lightness: 0.2085106
+  brandStrength: 1
+  brandColors:
+    - '#E9ECE9'
+    - '#272828'
+    - '#B49A77'
+    - '#FCB402'
+    - '#65A3C6'
+  rhythmicContrast: 0.680851
+typography_spectrum: 0.5159065544139594
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.5859697808045894
+favicon: null
+name: Lost and Found
