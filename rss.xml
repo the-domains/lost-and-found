@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Lost and Found]]></title>
         <description><![CDATA[Lost and Found]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lost-and-found/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Dec 2015 03:10:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 20 Dec 2015 03:12:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lost-and-found/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/lost-and-found/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">45ea287f-002a-4961-bc4f-a309d13f7f43</guid>
-            <pubDate>Sun, 20 Dec 2015 03:10:35 GMT</pubDate>
+            <pubDate>Sun, 20 Dec 2015 03:12:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
